@@ -1,0 +1,11 @@
+{
+  "name": "bos-altyapi",
+  "version": "1.0.0",
+  "description": "WhiteList Boş DiscordJS V13 Altyapı",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Egmn",
+  "license": "MIT"
+}
